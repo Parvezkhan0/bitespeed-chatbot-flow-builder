@@ -2,6 +2,14 @@
 
 A visual chatbot flow builder application built with React and React Flow that enables users to create, edit, and manage conversational flows through an intuitive drag-and-drop interface.
 
+## 🚀 Live Demo
+
+**[View Live Application](https://bitespeed-chatbot-flow-builder.onrender.com)**
+
+## 📦 Repository
+
+**[GitHub Repository](https://github.com/Parvezkhan0/bitespeed-chatbot-flow-builder)**
+
 ## Overview
 
 This project implements a node-based editor for designing chatbot conversation flows. Users can add message nodes, connect them to define conversation paths, and configure message content through a dedicated settings panel. The application enforces validation rules to ensure all conversation flows are properly connected before saving.
@@ -212,7 +220,6 @@ Tested and supported on:
 - Large flows (100+ nodes) may experience reduced responsiveness
 - Connection validation runs on every save operation
 - React Flow uses canvas rendering for optimal performance
-
 
 
 ---
