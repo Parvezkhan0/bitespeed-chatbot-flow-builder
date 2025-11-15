@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .submit-btn {
+    @apply bg-white px-7 py-2 border-[2px] border-solid border-blue-500 rounded-md text-blue-500 font-bold text-[12px];
+  }
+}
